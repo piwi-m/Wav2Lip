@@ -1,4 +1,4 @@
-scikit-build==0.17.6
+scikit-build==0.16.7
 librosa==0.7.0
 numpy==1.17.1
 opencv-contrib-python>=4.2.0.34
